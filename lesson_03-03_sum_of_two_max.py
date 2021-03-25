@@ -3,6 +3,7 @@
 и возвращает сумму наибольших двух аргументов.
 """
 
+
 def my_func(arg1, arg2, arg3):
     """
     Determines the two maximal arguments of three given and returns its sum

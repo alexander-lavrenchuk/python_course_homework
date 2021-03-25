@@ -5,6 +5,7 @@
 как именованные аргументы. Осуществить вывод данных о пользователе одной строкой.
 """
 
+
 def user_characteristics(name, last_name, year_of_birth, residential_city, email, phone):
     """
     Displays user characteristics

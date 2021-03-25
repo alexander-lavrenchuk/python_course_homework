@@ -5,6 +5,7 @@
 Используйте написанную ранее функцию int_func().
 """
 
+
 def capitalize_first_letter(s_word):
     """
     Capitalizes the first letter of given argument

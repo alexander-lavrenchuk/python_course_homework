@@ -4,6 +4,7 @@
 обработку ситуации деления на ноль.
 """
 
+
 def division(numerator, denominator):
     """
     Divides numerator by denominator and returns the result
